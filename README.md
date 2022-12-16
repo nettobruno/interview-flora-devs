@@ -32,5 +32,6 @@ The application should consist of three main components:
 
 
 Follow the URL of figma to direct the look of the components
-Link from [Figma](http://encurtador.com.br/nvG19).
+
+Link from [Figma](https://www.figma.com/file/6V16GN9NjSSipRG5kz0VvF/Teste-dev-flutter?node-id=0%3A1&t=8l74M4pf9Pi4d0aK-0).
 
