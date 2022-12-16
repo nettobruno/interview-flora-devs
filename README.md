@@ -32,6 +32,5 @@ The application should consist of three main components:
 
 
 Follow the URL of figma to direct the look of the components
-
-<a href=“http://encurtador.com.br/nvG19“>encurtador.com.br/nvG19</a>
+Link from [Figma](http://encurtador.com.br/nvG19).
 
