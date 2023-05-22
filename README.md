@@ -1,6 +1,6 @@
 # interview-flutter
 
-PAIR PROGRAMMING SCRIPT FRONTEND FLUTTER GB
+PAIR PROGRAMMING SCRIPT DESIGN SYSTEM FLORA GB
 
 Welcome to the practice pair programming for GB frontend job candidates.
 
@@ -12,7 +12,7 @@ With this, we will select which challenges we will pass on to you and which ones
 
 ## PAIR PROGRAMMING REQUIREMENTS
 
-We would like you to develop an application in flutter containing some good practices aimed at Design System.
+We would like you to develop an application in flutter or react containing some good practices aimed at Design System.
 
 The application must contain good practices mentioned below:
 
