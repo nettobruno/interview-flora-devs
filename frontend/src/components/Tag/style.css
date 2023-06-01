@@ -1,0 +1,9 @@
+div.card {
+  background-color: #49B1BF;
+  border-radius: 4px;
+
+  padding: 0 4px;
+  margin-right: 8px;
+
+  display: inline-block;
+}
